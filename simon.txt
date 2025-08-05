@@ -1,3 +1,4 @@
 name: Simon
 color: ultraviolet
 food: pizza & dalgona coffee
+animal: CRAB

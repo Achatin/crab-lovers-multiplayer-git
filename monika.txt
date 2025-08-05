@@ -1,2 +1,3 @@
 Name: Monika
 Favorite color: blue
+Favorite food: sandwich
